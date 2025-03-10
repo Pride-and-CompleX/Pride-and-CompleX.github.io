@@ -1,0 +1,69 @@
+a:link {
+    color: #b8f0ff;
+    text-decoration: underline;
+}
+   
+a:visited {
+    color: #9eb8ff;
+    text-decoration: underline;
+}
+
+body {
+    background-color:#000000;
+}
+
+p {
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+ul {
+    color: #ffffff;
+}
+
+th {
+    color: #ffffff;
+}
+
+audio {
+    height: 30px;
+}
+
+@font-face {
+  font-family: 'DotGothic16';
+  src: url(DotGothic16-Regular.ttf) format("truetype");
+}
+.DotGothic16 {
+  font-family: 'DotGothic16';
+}
+
+.cont{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img.LEFT_RND{
+    float: left;
+    margin: 0 20px 10px 0;
+}
+
+img.RIGHT_RND{
+    float: right;
+    margin: 0 20px 10px 0;
+}
+
+.ClearLEFT{
+    clear: left;
+}
+
+.clearRIGHT{
+    clear: right;
+}
