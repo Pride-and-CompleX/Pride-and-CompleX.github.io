@@ -1,0 +1,3 @@
+function Jajan() {
+    alert('じゃじゃん')
+}
